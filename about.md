@@ -1,13 +1,10 @@
 ---
-layout: page
-#layout: default 
-
 title: About
+permalink: "/about/"
+layout: page
 header: About Tech Works For Us
 description: DESCRIPTION NEEDED HERE
-permalink: /about/
 ---
-
 
 This is a simple webpage that has been handbuilt by Kim Plowright following instructions from [Kev Quirk](https://kevq.uk) using the Jekyll static site generator and [Simple.css](https://simplecss.org).
 

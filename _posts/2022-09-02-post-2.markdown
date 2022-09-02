@@ -1,12 +1,13 @@
 ---
+title: Second Test Post
+date: 2022-09-02 16:47:53 Z
+categories:
+- jekyll
+- update
 layout: post
-title:  Second Test Post
 header: Second Test Post Heading
-date:   2022-09-02 17:47:53 +0100
 description: This is another description for the blog post
-categories: jekyll update
 ---
-
 
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 

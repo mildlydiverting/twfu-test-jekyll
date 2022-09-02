@@ -1,18 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-
-
 title: Tech Works For Us
+permalink: "/"
 header: Tech Works For Us
-description: Mentoring, advice, research and product management support for your digital projects that puts people and planet first
-permalink: /
-#layout: default
+description: Mentoring, advice, research and product management support for your digital
+  projects that puts people and planet first
 layout: home
-
 ---
-
 
 Tech Works for Us is a digital consultancy providing mentoring, advice, research and product management support for your digital projects that puts people and planet first
 

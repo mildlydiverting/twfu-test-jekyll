@@ -1,19 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-
-
 title: Principles
+permalink: "/principles/"
 header: Our philosophy for our work.
 description: DESCRIPTION NEEDED HERE
-permalink: /principles/
 layout: page
-#layout: default 
-
-
 ---
-
 
 ## Honest and open:
 
