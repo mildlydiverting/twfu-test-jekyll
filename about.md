@@ -1,16 +1,12 @@
 ---
-#layout: page
+layout: page
+#layout: default 
 
-title: Tech Works For Us
+title: About
 header: About Tech Works For Us
 description: DESCRIPTION NEEDED HERE
-layout: default 
 permalink: /about/
 ---
-
-
-# Welcome to Tech Works For Us
-
 
 
 This is a simple webpage that has been handbuilt by Kim Plowright following instructions from [Kev Quirk](https://kevq.uk) using the Jekyll static site generator and [Simple.css](https://simplecss.org).

@@ -38,7 +38,7 @@ feed:
   posts_limit: 20
 
 # Build settings
-#theme: minima
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -50,7 +50,8 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
+   - -archive-template-files
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/

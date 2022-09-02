@@ -4,15 +4,16 @@
 
 
 
-title: Title Our Principles
-header: Our Principles
+title: Principles
+header: Our philosophy for our work.
 description: DESCRIPTION NEEDED HERE
 permalink: /principles/
-layout: default
+layout: page
+#layout: default 
+
 
 ---
 
-# Our Principles
 
 ## Honest and open:
 

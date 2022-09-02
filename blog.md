@@ -1,8 +1,10 @@
 ---
-layout: default
-title: Blog | Tech Works For Us
+layout: page
+#layout: default 
+
+title: Blog
 header: Blog
-description: Where the magic happens - this is the blog!
+description: Updates about digital sustainability, product management and running ethical digital projects in third sector.
 permalink: /blog/
 ---
 
