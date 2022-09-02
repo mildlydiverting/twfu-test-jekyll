@@ -1,6 +1,7 @@
 ---
 title: Siteleaf Test Post
 date: 2022-09-02 22:04:00 Z
+layout: post
 ---
 
 This post is coming in from Siteleaf
