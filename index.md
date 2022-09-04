@@ -17,7 +17,7 @@ We are:
 * People-centred
 * Planet-centred 
 
-Find out more about how we use these principles in practice
+Find out more about how we use [these principles in practice](/principles/)
 
 ## Our Services
 
@@ -40,3 +40,6 @@ Do you need another pair of safe digital hands to support your existing team?
 * Do you need help writing a brief, turning an idea into a solid funding application or prioritising a roadmap?
 
 
+# ToDo
+
+Add privacy notice and terms links in footer - requires updating layout of theme.

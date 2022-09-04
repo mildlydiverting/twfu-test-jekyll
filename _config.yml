@@ -12,7 +12,7 @@ email: martha@---.com
 description: Mentoring, advice, research and product management support for your digital
   projects that puts people and planet first. Over 25 years of experience in online
   and mobile projects in health, science, education, culture and the arts.
-baseurl: "/twfu-test-jekyll"
+baseurl: "/"
 url: https://mildlydiverting.github.io/
 twitter_username: marthasadie
 github_username: marthasadieTBC
