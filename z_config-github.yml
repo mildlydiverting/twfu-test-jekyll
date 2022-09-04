@@ -1,0 +1,36 @@
+---
+title: Tech Works For Us
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: martha@---.com
+description: Mentoring, advice, research and product management support for your digital
+  projects that puts people and planet first. Over 25 years of experience in online
+  and mobile projects in health, science, education, culture and the arts.
+baseurl: "/"
+url: https://mildlydiverting.github.io/
+twitter_username: marthasadie
+github_username: marthasadieTBC
+author: Martha Henson
+lang: en
+locale: en_GB
+header_pages:
+- about.md
+- principles.md
+- blog.md
+- contact.md
+feed:
+  posts_limit: 20
+theme: minima
+plugins:
+- jekyll-feed
+- jekyll-sitemap
+minima:
+  skin: dark
+exclude:
+- "-archive-template-files"
