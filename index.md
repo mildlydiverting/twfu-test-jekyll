@@ -43,3 +43,6 @@ Do you need another pair of safe digital hands to support your existing team?
 # ToDo
 
 Add privacy notice and terms links in footer - requires updating layout of theme.
+
+
+
